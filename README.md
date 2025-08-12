@@ -1,6 +1,6 @@
 # Pacman AI – Search Algorithms
 
-This project is based on the UC Berkeley CS188 Pacman AI framework, implementing and testing algorithms and multi-agent search strategies for Pacman.
+This project was developed for the **Artificial Intelligence** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://www.dit.hua.gr). It is based on the UC Berkeley CS188 Pacman AI framework, implementing and testing search algorithms and multi-agent search strategies for Pacman.
 
 ## Description
 Pacman is controlled by an AI agent that makes decisions based on:
@@ -86,3 +86,4 @@ python autograder.py -q q6
 
 ## License
 This project is based on UC Berkeley CS188 Pacman framework. Original materials available [here](https://ai.berkeley.edu/).
+
